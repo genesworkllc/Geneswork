@@ -1,0 +1,24 @@
+{
+  "name": "Geneswork LLC",
+  "short_name": "Geneswork",
+  "description": "Owner-operated tractor and dirt work in Livingston and Oakland County, Michigan.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#07140e",
+  "theme_color": "#07140e",
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ]
+}

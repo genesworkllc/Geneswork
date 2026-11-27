@@ -1,0 +1,7 @@
+Barlow and Barlow Condensed
+Copyright 2017 The Barlow Project Authors (https://github.com/jpt/barlow)
+Licensed under the SIL Open Font License, Version 1.1. See OFL.txt.
+
+Bebas Neue
+Copyright 2010 by Dharma Type.
+Licensed under the SIL Open Font License, Version 1.1. See OFL.txt.
